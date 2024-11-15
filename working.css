@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(60, 133, 108);
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+    border: black solid 3px;
+    background-color: aqua;
+}
+th, td {
+    border: 2px solid #c60c0c;
+    padding: 8px;
+    text-align: center;
+}
+th {
+    background-color: #f2f2f2;
+    color: #c60c0c;
+}
+input{
+    border: blue 3px solid;
+    font-size: large;
+    text-align: center;
+}
+#add{
+    width: 140px;
+    height: 30px;
+    background-color: rgb(219, 219, 234);
+    font-size: larger;
+}
+#regs{
+    float: right;
+}
+h2{
+    float: right;
+}
